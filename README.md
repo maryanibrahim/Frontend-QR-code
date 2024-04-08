@@ -1,4 +1,4 @@
-# Live Demo: [https://www.frontendmentor.io/solutions/using-css-flexbox-z_tl647oe8]
+# Live Demo: [is here](https://maryanibrahim.github.io/Frontend-QR-code/)
 
 # Frontend Mentor - QR code component
 
